@@ -1,0 +1,4 @@
+Mosek==9.3.18
+networkx==2.8
+numpy==1.21.5
+pynauty==1.0.2
