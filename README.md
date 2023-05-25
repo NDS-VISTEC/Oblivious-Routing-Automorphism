@@ -59,7 +59,7 @@ This figure shows the worst-case throughput values under partially deployed FatT
 
 ### Download code
 ```shell
-$ git clone https://github.com/NDS-VISTEC/Oblivious-Routing-Automorphism
+$ git clone https://github.com/NDS-VISTEC/Oblivious-Routing-Automorphism.git
 ```
 
 ### Use Docker
