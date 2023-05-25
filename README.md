@@ -1,6 +1,6 @@
 # Oblivious Routing Automorphism
 
-**Optimal Oblivious Routing with Concave Objective for Structured Networks (TON 2023)** <br>
+**Optimal Oblivious Routing with Concave Objective for Structured Networks (TON 2023) [Paper](https://ieeexplore.ieee.org/document/10100699)** <br>
 
 In general, for any network, oblivious routing can be formulated as a robust multi-commodity flow problem with a concave objective in which the number of constraints grows factorially with the number of switches in the network resulting in the problem being intractable. <br>
 
