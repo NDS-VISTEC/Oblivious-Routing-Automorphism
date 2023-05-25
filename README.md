@@ -35,8 +35,7 @@ This figure shows the worst-case throughput values under partially deployed FatT
 ## Table of contents
 -----
   * [Code Structure](#code-structure)
-  * [Installation](#installation)
-  * [Run the code](#run-the-code)
+  * [How to use](#how-to-use)
   * [Slimfly topology](#slimfly-topology)
   * [Using your own topology](#using-your-own-topology)
   * [Citation](#citation)
@@ -56,7 +55,7 @@ This figure shows the worst-case throughput values under partially deployed FatT
 - ```requirements.txt``` required python packages for the Docker image 
 
 
-## Installation
+## How to use
 
 ### Download code
 ```shell
@@ -112,7 +111,6 @@ Assume you already have [MOSEK license file (mosek.lic)](https://www.mosek.com/p
 ```shell
 $ python main.py
 ```
-
 
 ## SlimFly topology
 For SlimFly topology, it can be downloaded via https://spcl.inf.ethz.ch/Research/Scalable_Networking/SlimFly/ <br>
